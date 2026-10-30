@@ -1,5 +1,7 @@
 # TOTK Mod Manager v1
 
+![TOTK Mod Manager](screenshot.png)
+
 A mod manager for **[totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp)** (The Legend of Zelda: Tears of the Kingdom, PC recompilation).
 Add mods from `.zip` files, switch them on and off, and apply them with one click. No command line needed.
 
