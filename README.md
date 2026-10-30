@@ -15,7 +15,7 @@ Made by **Melio**. Bugs and requests: Discord **konomelioda**.
 
 ## Install
 
-1. Download `TOTK Mod Manager.exe` from the [Releases](../../releases) page.
+1. Download `TOTKModManager.exe` from the [Releases](../../releases) page.
 2. Put it in your game folder, next to `totk.exe`.
 3. Double-click it. Use **DESKTOP SHORTCUT** to get a shortcut with its icon.
 
