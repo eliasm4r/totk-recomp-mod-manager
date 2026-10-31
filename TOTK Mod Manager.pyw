@@ -1,4 +1,4 @@
-"""TOTK Mod Manager v1 by Melio, for totk-pc-recomp: add mods (.zip), enable / disable them, apply, start the game.
+"""TOTK Mod Manager v1.0.1 by Melio, for totk-pc-recomp: add mods (.zip), enable / disable them, apply, start the game.
 Double-click to open. Uses install_mods.py and the art in mm_assets (same folder). Standard library only (tkinter)."""
 import math
 import os
@@ -33,7 +33,7 @@ if sys.platform == 'win32':
     except Exception:
         pass
 
-VERSION, AUTHOR = 'v1', 'Melio'
+VERSION, AUTHOR = 'v1.0.1', 'Melio'
 DISCORD = 'konomelioda'      # contact for bug reports and requests
 
 # Zonai palette: stone black-green, glowing teal, aged gold
