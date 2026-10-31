@@ -1,4 +1,4 @@
-# TOTK Mod Manager v1
+# TOTK Mod Manager
 
 ![TOTK Mod Manager](screenshot.png)
 
@@ -43,7 +43,7 @@ To build the `.exe` yourself, put this folder inside the game folder and run `bu
 | `TOTK Mod Manager.pyw` | The window (tkinter) |
 | `install_mods.py` | Installs the enabled mods (also works on its own: `py install_mods.py`) |
 | `mm_assets/` | Icon and artwork (original, no game assets) |
-| `build_exe.bat` | Builds `TOTK Mod Manager.exe` |
+| `build_exe.bat` | Builds `TOTKModManager.exe` |
 
 The title font is [Cinzel](https://fonts.google.com/specimen/Cinzel) (SIL Open Font License), rendered into `mm_assets/title.png`.
 Not affiliated with Nintendo. Tears of the Kingdom is a trademark of Nintendo.
