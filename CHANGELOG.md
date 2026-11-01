@@ -28,11 +28,12 @@ Renamed to **TOTK Recomp Mod Manager**.
 ## v1.0.1
 
 **Fixed**
-- Game version detection on 1.2.1 (its resource size table has a different name), with `totk-install.json` as a
-  fallback.
-- Clear error when the Mod Manager is not in the game folder.
-- Mods that need the resource size table are no longer installed when it cannot be found: nothing is installed
-  instead of a setup that could crash the game.
+- Game version detection: the resource size table has a different name depending on the game version, which showed
+  "YOUR GAME: unknown" and could cause a black screen. Both names are recognized now, and the version can also be
+  read from `totk-install.json`.
+- When the size table cannot be found, the install stops with an error instead of wrongly reporting
+  "size table patched".
+- Clearer error when `romfs-index.bin` is missing (the Mod Manager is not in the game folder).
 
 **Changed**
 - The Windows file is now `TOTKModManager.exe`.

@@ -122,16 +122,7 @@ users an update is out.
 
 ## Changelog
 
-**v1.0.2**
-- Linux support (Steam Deck and Steam Machine included).
-- Priority order with ▲ ▼ or drag and drop (it used to be A→Z order), and red conflict badges.
-- `.7z` and `.rar` mods, and drag and drop.
-- **FIND MODS** button, search, and update notice.
-- **ENABLE ALL** / **DISABLE ALL** buttons.
-- Disabled mods now show **DISABLED**.
-- New **ⓘ** button that explains which mods work, and clearer warnings for mods with an `exefs` folder.
-- The title now reads **TOTK Recomp Mod Manager**.
-- Mods whose `romfs` folder has another letter case (`RomFS`, `Romfs`) are now found on every system.
+See [CHANGELOG.md](CHANGELOG.md).
 
 ## Credits
 
