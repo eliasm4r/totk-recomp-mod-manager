@@ -1,7 +1,7 @@
-   __pycache__/
-   build/
-   dist/
-   *.spec
-   *.exe
-   TOTKRecompModManager
-   *.AppImage
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+TOTKRecompModManager
+*.AppImage
